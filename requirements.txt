@@ -1,0 +1,5 @@
+numpy==2.3.2
+pandas
+scikit-learn==1.8.0
+imbalanced-learn==0.14.1
+joblib
