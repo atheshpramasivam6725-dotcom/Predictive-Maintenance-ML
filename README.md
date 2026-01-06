@@ -166,14 +166,8 @@ Integrate with IoT sensors for real-time predictions
 Extend the system to analyze data from multiple machines simultaneously
 
 Cloud deployment using AWS, Azure, or GCP
-## 📊 Exploratory Data Analysis
 
-### Target Distribution
-![Target Distribution](plots/target_distribution.png)
 
-### Correlation Heatmap
-![Correlation Heatmap](plots/correlation_heatmap.png)
 
-### Feature Importance
-![Feature Importance](plots/feature_importance.png)
+
 
